@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "data": {
+        "services": [{
+            "service": "api",
+            "endpoints": [{
+                "protocol": "https",
+                "hostname": "api.playsharp.com",
+                "uri": "/api/v2.0"
+            }, {
+                "protocol": "https",
+                "hostname": "api.joduska.me",
+                "uri": "/api/v2.0"
+            }]
+        }, {
+            "service": "data",
+            "endpoints": [{
+                "protocol": "https",
+                "hostname": "playsharp.global.ssl.fastly.net",
+                "uri": ""
+            }, {
+                "protocol": "https",
+                "hostname": "services-data.playsharp.com",
+                "uri": ""
+            }]
+        }]
+    }
+}
+
