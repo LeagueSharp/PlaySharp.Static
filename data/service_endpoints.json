@@ -20,7 +20,7 @@
                 "uri": ""
             }, {
                 "protocol": "https",
-                "hostname": "services-data.playsharp.com",
+                "hostname": "data.playsharp.com",
                 "uri": ""
             }]
         }]
