@@ -8,7 +8,7 @@
         "https?:\\/\\/(\\w+)\\.riotgames\\.com\\/.*",
         "https?:\\/\\/(\\w+)\\.lolnexus\\.com\\/.*",
         "https?:\\/\\/(www\\.)?lolbuilder\\.net\\/.*",
-        "https?:\\/\\/(www\\.)?champion\\.gg\\/.*",
+        "https?:\\/\\/(\\w+)\\.champion\\.gg\\/.*",
         "https?:\\/\\/(www\\.)?leaguecraft\\.com\\/.*",
         "https?:\\/\\/openapi\\.baidu\\.com\\/.*",
         "https?:\\/\\/fanyi\\.youdao\\.com\\/.*",
