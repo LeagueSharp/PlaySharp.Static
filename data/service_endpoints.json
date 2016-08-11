@@ -16,11 +16,11 @@
             "service": "data",
             "endpoints": [{
                 "protocol": "https",
-                "hostname": "playsharp.global.ssl.fastly.net",
+                "hostname": "data.playsharp.com",
                 "uri": ""
             }, {
                 "protocol": "https",
-                "hostname": "data.playsharp.com",
+                "hostname": "playsharp.global.ssl.fastly.net",
                 "uri": ""
             }]
         }]
