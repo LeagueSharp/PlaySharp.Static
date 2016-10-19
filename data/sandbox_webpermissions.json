@@ -10,7 +10,7 @@
         "https?:\\/\\/(www\\.)?lolbuilder\\.net\\/.*",
         "https?:\\/\\/(\\w+)\\.champion\\.gg\\/.*",
         "https?:\\/\\/(www\\.)?leaguecraft\\.com\\/.*",
-        "https?:\\/\\/openapi\\.baidu\\.com\\/.*",
+        "https?:\\/\\/api\\.fanyi\\.baidu\\.com\\/.*",
         "https?:\\/\\/fanyi\\.youdao\\.com\\/.*",
         "https?:\\/\\/translate\\.google\\.com\\/.*",
         "https?:\\/\\/(www\\.)?dotabuff\\.com\\/.*",
