@@ -6,7 +6,7 @@
         "https?:\\/\\/fanyi\\.youdao\\.com\\/.*",
         "https?:\\/\\/translate\\.google\\.com\\/.*",
         "https?:\\/\\/(www\\.)?dotabuff\\.com\\/.*",
-        "https?:\\/\\/(www\\.)?yasp\\.co\\/.*"
+        "https?:\\/\\/(www|api)\\.opendota\\.com\\/.*"
     ]
 }
 
