@@ -2,7 +2,7 @@
     "status": "success",
     "data": [
         "https?:\\/\\/(www\\.|raw.)?github(usercontent)?\\.com\\/.*",
-        "https?:\\/\\/openapi\\.baidu\\.com\\/.*",
+        "https?:\\/\\/api\\.fanyi\\.baidu\\.com\\/.*",
         "https?:\\/\\/fanyi\\.youdao\\.com\\/.*",
         "https?:\\/\\/translate\\.google\\.com\\/.*",
         "https?:\\/\\/(www\\.)?dotabuff\\.com\\/.*",
