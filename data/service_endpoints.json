@@ -18,10 +18,6 @@
                 "protocol": "https",
                 "hostname": "data.playsharp.com",
                 "uri": ""
-            }, {
-                "protocol": "https",
-                "hostname": "playsharp.global.ssl.fastly.net",
-                "uri": ""
             }]
         }]
     }
